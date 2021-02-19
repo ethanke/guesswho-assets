@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="168" height="247" viewBox="0 0 168 247">
+    <defs>
+        <linearGradient id="ex0l6fxwlc" x1="12.962%" x2="85.186%" y1="12.902%" y2="87.035%">
+            <stop offset="0%" stop-color="#E2353F"/>
+            <stop offset="100%" stop-color="#FFB55D"/>
+        </linearGradient>
+        <linearGradient id="sokg5l1r6d" x1="0%" x2="97.272%" y1="0%" y2="97.272%">
+            <stop offset="0%" stop-color="#D52D0D"/>
+            <stop offset="100%" stop-color="#EF9234"/>
+        </linearGradient>
+        <filter id="ue88936hfa" width="106%" height="111.9%" x="-3%" y="-3%" filterUnits="objectBoundingBox">
+            <feOffset dy="10" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.895514456 0 0 0 0 0.625418476 0 0 0 0 0.44535449 0 0 0 0.5 0"/>
+        </filter>
+        <path id="qa7w23i4ub" d="M84 0C37.609 0 0 37.608 0 84c0 46.391 37.609 84 84 84 46.392 0 84-37.609 84-84 0-46.392-37.608-84-84-84z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-352 -314) translate(352 314)">
+                    <use fill="#000" filter="url(#ue88936hfa)" xlink:href="#qa7w23i4ub"/>
+                    <use fill="url(#ex0l6fxwlc)" xlink:href="#qa7w23i4ub"/>
+                </g>
+                <path fill="url(#sokg5l1r6d)" d="M83.997 149.218c44.717 0 81.166-31.066 83.75-70.218.1 1.654.253 3.294.253 4.973C168 130.38 130.39 168 83.997 168 37.606 168 0 130.38 0 83.973c0-1.68.152-3.319.248-4.973 2.589 39.152 39.038 70.218 83.75 70.218" transform="translate(-352 -314) translate(352 314)"/>
+                <path fill="#E49F72" fill-opacity=".5" d="M84.5 9.573C56.605 9.573 31.854 21.912 16 41 30.3 18.206 55.594 3 84.5 3s54.2 15.204 68.5 37.997C137.146 21.911 112.395 9.573 84.5 9.573" style="mix-blend-mode:screen" transform="translate(-352 -314) translate(352 314)"/>
+                <text fill="#FFF" font-family="Lobster-Regular, Lobster" font-size="47" transform="translate(-352 -314) translate(352 314)">
+                    <tspan x="14" y="74">Film &amp;</tspan> <tspan x="20.977" y="122">Séries</tspan>
+                </text>
+                <text fill="#4B5059" font-family="Nunito-Regular, Nunito" font-size="17" transform="translate(-352 -314) translate(352 314)">
+                    <tspan x="26.098" y="227">Pour une gloire </tspan> <tspan x="45.988" y="250">éternelle ! </tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
