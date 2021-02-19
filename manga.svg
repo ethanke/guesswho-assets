@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="168" height="224" viewBox="0 0 168 224">
+    <defs>
+        <linearGradient id="ph7ymjrv2c" x1="12.962%" x2="85.186%" y1="12.902%" y2="87.035%">
+            <stop offset="0%" stop-color="#E2353F"/>
+            <stop offset="100%" stop-color="#FFB55D"/>
+        </linearGradient>
+        <linearGradient id="88te82gfzd" x1="0%" x2="97.272%" y1="0%" y2="97.272%">
+            <stop offset="0%" stop-color="#D52D0D"/>
+            <stop offset="100%" stop-color="#EF9234"/>
+        </linearGradient>
+        <filter id="jr5futfzza" width="106%" height="111.9%" x="-3%" y="-3%" filterUnits="objectBoundingBox">
+            <feOffset dy="10" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.895514456 0 0 0 0 0.625418476 0 0 0 0 0.44535449 0 0 0 0.5 0"/>
+        </filter>
+        <path id="9p4p3qfn4b" d="M83.855 0C37.544 0 0 37.543 0 83.855c0 46.311 37.544 83.855 83.855 83.855 46.312 0 83.855-37.544 83.855-83.855C167.71 37.543 130.167 0 83.855 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-104 -314) translate(104 314)">
+                    <use fill="#000" filter="url(#jr5futfzza)" xlink:href="#9p4p3qfn4b"/>
+                    <use fill="url(#ph7ymjrv2c)" xlink:href="#9p4p3qfn4b"/>
+                </g>
+                <path fill="url(#88te82gfzd)" d="M83.853 148.966c44.64 0 81.024-31.002 83.603-70.074.101 1.65.253 3.287.253 4.963 0 46.312-37.545 83.855-83.856 83.855-46.31 0-83.85-37.543-83.85-83.855 0-1.676.151-3.312.247-4.963 2.584 39.072 38.97 70.074 83.603 70.074" transform="translate(-104 -314) translate(104 314)"/>
+                <path fill="#E49F72" fill-opacity=".5" d="M83.853 9.753c-27.822 0-52.508 12.315-68.32 31.366 14.262-22.75 39.49-37.926 68.32-37.926 28.83 0 54.058 15.174 68.321 37.923-15.813-19.05-40.499-31.363-68.32-31.363" style="mix-blend-mode:screen" transform="translate(-104 -314) translate(104 314)"/>
+                <text fill="#FFF" font-family="Lobster-Regular, Lobster" font-size="47" transform="translate(-104 -314) translate(104 314)">
+                    <tspan x="18.4" y="97">Manga</tspan>
+                </text>
+                <text fill="#4B5059" font-family="Nunito-Regular, Nunito" font-size="17" transform="translate(-104 -314) translate(104 314)">
+                    <tspan x="25.631" y="226">Suis ton nindo !</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
